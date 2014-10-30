@@ -1,4 +1,4 @@
-package tn.edu.esprit.jee_team;
+package tn.edu.esprit;
 
 /**
  * Hello world!
